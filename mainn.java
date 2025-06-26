@@ -8,8 +8,8 @@ public class mainn {
         // scanner para
         Scanner scanner = new Scanner(System.in);
 
-
-        git remote add origin https://github.com/jorgeandres1818/miRepositorio.git
+        System.out.println("Hola desde github!!");
+        
     }
     
 }
