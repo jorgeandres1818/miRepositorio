@@ -9,6 +9,7 @@ public class mainn {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Hola desde github!!");
+        System.out.println("Probando otra cosa");
         
     }
     
